@@ -1,4 +1,4 @@
-### Lab for use Terraform in Fortigate firewall
+# Lab for use Terraform in Fortigate firewall
 
 
 ## Firewall Rules
